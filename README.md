@@ -26,6 +26,12 @@ Aplikasi katalog game berbasis **React Native + Expo**. Menyediakan beranda deng
 
 ### Menjalankan Project
 
+Clone the repository
+
+```bash
+git clone <repository-url>
+```
+
 Install dependency:
 
 ```bash
