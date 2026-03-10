@@ -1,4 +1,4 @@
-## Nexara
+## Nexara — Game Catalog Mobile App
 
 Nexara adalah aplikasi mobile berbasis **React Native + Expo** yang menampilkan katalog game dengan tampilan modern, lengkap dengan kategori, detail game, rating, screenshot, dan trailer.
 
@@ -40,9 +40,10 @@ Nexara adalah aplikasi mobile berbasis **React Native + Expo** yang menampilkan 
 
    ```bash
    npm install
-
+   ```
 
 3. **Jalankan aplikasi dengan Expo**
 
    ```bash
    npx expo start
+   ```
