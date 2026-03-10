@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1",
+    "title": "Arknights Endfield",
+    "developer": "GRYPHLINE",
+    "description": "Explore the wild world of Talos-II, build automated factories, and lead your operators in real-time combat. In Arknights: Endfield, as an Administrator, you spearhead the expansion of human civilization on an alien planet filled with beauty and danger.",
+    "genre": "Action, RPG",
+    "categories": ["Action", "RPG"],
+    "rating": 4.2,
+    "ratingCount": 48151,
+    "size": "22.26 GB",
+    "featured": true,
+    "trending": true,
+    "newRelease": true,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066606/IconAKE_pfisly.webp",
+    "banner": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773075617/BannerAKE_jbxvz9.webp",
+    "trailerYoutubeId": "RFAavJ_w0PY&t=1s",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066604/AKE1_zjrzmi.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066605/AKE2_afcfwk.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066606/AKE3_cwgrof.webp"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Arcaea",
+    "developer": "lowiro",
+    "description": "In a lost white world, memories and the harmony of light await amidst musical conflict. Arcaea is a rhythm game that takes you on a heartbreaking tale of two girls awakened under a glass sky. Experience an innovative gameplay experience where the gameplay itself reflects the emotions and events of the story. Play, unlock the ever-evolving narrative, and discover greater challenges at every turn.",
+    "genre": "Music, Arcade",
+    "categories": ["Music", "Arcade"],
+    "rating": 4.6,
+    "ratingCount": 132478,
+    "size": "2 GB",
+    "featured": true,
+    "trending": false,
+    "newRelease": true,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773067229/IconArcaea_gpynuo.webp",
+    "trailerYoutubeId": "Mhg9neH3Ug0",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773067225/Arcaea1_hkmkg5.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773067226/Arcaea2_fraczt.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773067228/Arcaea3_wnmpkg.webp"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Mobile Legends: Bang Bang",
+    "developer": "MOONTON",
+    "description": "Mobile Legends: Bang Bang is a 5v5 mobile MOBA with fast-paced 10-minute matches and instant matchmaking. Battle against global players, choose your favorite heroes, master laning and teamfight strategies, destroy enemy turrets, and show your competitive spirit with friends—all in the palm of your hand!",
+    "genre": "Strategy",
+    "categories": ["Strategy"],
+    "rating": 3.8,
+    "ratingCount": 37258569,
+    "size": "11.05 GB",
+    "featured": true,
+    "trending": true,
+    "newRelease": false,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773126135/IconMl_hlbd4m.webp",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773126136/Ml1_zpqk8y.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773126137/Ml2_qtedd2.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773126139/Ml3_ybqkcl.webp"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Cytus II",
+    "developer": "RAYARK",
+    "description": "Cytus II is a music rhythm game created by Rayark Games. It's our fourth rhythm game title, following the footsteps of three global successes, Cytus, DEEMO and VOEZ. This sequel to Cytus brings back the original staff and is a product of hardwork and devotion.",
+    "genre": "Music, Casual",
+    "categories": ["Music", "Casual"],
+    "rating": 4.3,
+    "ratingCount": 131545,
+    "size": "3.8 GB",
+    "featured": true,
+    "trending": false,
+    "newRelease": true,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773129788/IconCytus_pbgbqr.webp",
+    "trailerYoutubeId": "kY83Bo79Y7c",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773129788/Cytus1_uzerec.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773129788/Cytus2_rtcbic.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773129788/Cytus3_ovii1t.webp"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Toram Online",
+    "developer": "Asobimo, Inc.",
+    "description": "Toram Online is an MMORPG with over 500 billion character combinations and 15 million global downloads! Create your character freely, choose any weapon without any professional restrictions, and develop them with the Skill Tree. Color your equipment, customize unique abilities, and adventure in a vast 3D world with friends from across the world. A strange post-apocalyptic world awaits its mysteries!",
+    "genre": "RPG",
+    "categories": ["RPG"],
+    "rating": 4.5,
+    "ratingCount": 953.126,
+    "size": "6 GB",
+    "featured": true,
+    "trending": false,
+    "newRelease": false,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130059/IconTO_q3dwas.webp",
+    "trailerYoutubeId": "zLY_PIze90I",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130069/TO1_cwvzce.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130070/TO2_us13dz.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130071/TO3_ztaqbj.webp"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Punishing: Gray Raven",
+    "developer": "KURO TECHNOLOGY (HONG KONG) CO., LIMITED",
+    "description": "A post-apocalyptic world awaits in Punishing: Gray Raven. Earth has fallen to an army of Corrupted robots infected with a deadly biomechanical virus, The Punishing. The remaining human race has taken refuge on the space station Babylonia. Now, as the commander of the Gray Raven special forces unit, you lead the most advanced cyborg warriors on a sacred mission: to reclaim their lost home and uncover the dark truth behind the virus that destroyed civilization.",
+    "genre": "RPG, Action",
+    "categories": ["RPG", "Action"],
+    "rating": 4.5,
+    "ratingCount": 170312,
+    "size": "26.88 GB",
+    "featured": false,
+    "trending": true,
+    "newRelease": true,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130284/IconPGR_fzahtz.webp",
+    "trailerYoutubeId": "lJMHRhkihSA",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130285/PGR1_szxky2.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130315/PGR2_khk45t.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130316/PGR3_jqgkrh.webp"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Honor of Kings",
+    "developer": "Level Infinite",
+    "description": "Honor of Kings is the world's most popular 5v5 MOBA game from Tencent Timi Studio. Experience fast-paced and fair hero battles, a variety of battle modes, and seamless matchmaking. Achieve First Blood and Pentakills with friends, or compete on the global eSports stage. The enemy is approaching—assemble your team and claim honor!",
+    "genre": "Strategy, Casual",
+    "categories": ["Strategy", "Casual"],
+    "rating": 4.2,
+    "ratingCount": 1653429,
+    "size": "13 GB",
+    "featured": false,
+    "trending": true,
+    "newRelease": true,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130694/IconHOK_urwklv.webp",
+    "trailerYoutubeId": "jhTM-gPd_wM",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130694/HOK1_hm4mr9.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130694/HOK2_gyudd7.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130694/HOK3_selsik.webp"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Arknights",
+    "developer": "Yostar Limited",
+    "description": "Take on the role of a key member of Rhodes Island, a pharmaceutical company that fights both a deadly infection and the unrest it leaves in its wake. Together with your leader Amiya, you’ll recruit Operators, train them, then assign them to various operations to protect the innocent and resist those who would thrust the world into turmoil.",
+    "genre": "Strategy",
+    "categories": ["Strategy"],
+    "rating": 4.3,
+    "ratingCount": 187.763,
+    "size": "23 GB",
+    "featured": true,
+    "trending": true,
+    "newRelease": false,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130882/IconArknights_f7r9f6.webp",
+    "banner": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773075795/BannerArknights_l1apoh.webp",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130881/Arknights1_v1zplv.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130882/Arknights2_jli3og.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773130882/Arknights3_yiluso.webp"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "HATSUNE MIKU: COLORFUL STAGE!",
+    "developer": "SEGA CORPORATION",
+    "description": "Experience non-stop rhythm action at your fingertips! Hatsune Miku: Colorful Stage! delivers exciting gameplay with tap, hold, and flick mechanics that are easy to master thanks to 5 difficulty levels. Collect character cards, costumes, and customize your favorite bands and music videos. Play alone or create a room with up to 4 friends to have fun together. Enjoy Virtual Shows, real-time virtual concerts with players from around the world, complete with customizable avatars and glow sticks!",
+    "genre": "Music, Arcade",
+    "categories": ["Music", "Arcade"],
+    "rating": 4.3,
+    "ratingCount": 135481,
+    "size": "6 GB",
+    "featured": false,
+    "trending": true,
+    "newRelease": true,
+    "icon": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066183/IconMiku_wreszc.webp",
+    "banner": "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773075692/BannerMiku_flyhfg.webp",
+    "trailerYoutubeId": "MTQwwXS8cXg",
+    "screenshots": [
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066277/Miku1_xfvb8q.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066278/Miku2_xrws3x.webp",
+      "https://res.cloudinary.com/drrmbeiyk/image/upload/v1773066279/Miku3_l3ojma.webp"
+    ]
+  }
+]
