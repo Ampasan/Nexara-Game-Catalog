@@ -17,7 +17,6 @@ Nexara adalah aplikasi mobile berbasis **React Native + Expo** yang menampilkan 
 ### Teknologi yang Digunakan
 
 - **React Native**
-- **React**
 - **Expo**
 - **React Navigation**
   - `@react-navigation/native`
