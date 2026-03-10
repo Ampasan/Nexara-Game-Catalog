@@ -1,4 +1,4 @@
-## Nexara
+# Nexara — Game Catalog Mobile App
 
 Aplikasi katalog game berbasis **React Native + Expo**. Menyediakan beranda dengan list game, pencarian, halaman detail (rating, screenshot, trailer), serta navigasi tab + stack.
 
@@ -25,6 +25,12 @@ Aplikasi katalog game berbasis **React Native + Expo**. Menyediakan beranda deng
   - `react-native-screens`
 
 ### Menjalankan Project
+
+Clone the repository
+
+```bash
+git clone <repository-url>
+```
 
 Install dependency:
 
