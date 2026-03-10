@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useMemo, useRef, useState } from "react";
 import {
   View,
   Text,
@@ -16,7 +16,8 @@ export default function ScreenshotGallery({ screenshots }) {
   if (!screenshots || screenshots.length === 0) return null;
 
   const [visible, setVisible] = useState(false);
-  const [activeIndex, setActiveIndex] = useState(0);
+  const currentIndexRef = useRef(0);
+  const [initialIndex, setInitialIndex] = useState(0);
 
   const images = useMemo(
     () => screenshots.map((uri) => ({ uri })),
@@ -24,7 +25,8 @@ export default function ScreenshotGallery({ screenshots }) {
   );
 
   const openPreview = (index) => {
-    setActiveIndex(index);
+    currentIndexRef.current = index;
+    setInitialIndex(index);
     setVisible(true);
   };
 
@@ -46,10 +48,15 @@ export default function ScreenshotGallery({ screenshots }) {
 
       <ImageViewing
         images={images}
-        imageIndex={activeIndex}
+        imageIndex={initialIndex}
         visible={visible}
-        onRequestClose={() => setVisible(false)}
-        onImageIndexChange={setActiveIndex}
+        onRequestClose={() => {
+          setVisible(false);
+          setInitialIndex(currentIndexRef.current);
+        }}
+        onImageIndexChange={(index) => {
+          currentIndexRef.current = index;
+        }}
       />
     </View>
   );
